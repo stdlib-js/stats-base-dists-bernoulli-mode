@@ -32,10 +32,14 @@ The [mode][mode] for a [Bernoulli][bernoulli-distribution] random variable is
 
 <!-- <equation class="equation" label="eq:bernoulli_mode" align="center" raw="\operatorname{Mode}\left( X \right) = \begin{cases} 0 & \text{if } p < 1/2 \\ 0, 1 &\text{if } p = 1/2 \\ 1 & \text{if } p > 1/2 \end{cases}" alt="Mode for a Bernoulli distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\operatorname{Mode}\left( X \right) = \begin{cases} 0 &amp; \text{if } p &lt; 1/2 \\ 0, 1 &amp;\text{if } p = 1/2 \\ 1 &amp; \text{if } p &gt; 1/2 \end{cases}" data-equation="eq:bernoulli_mode">
+```math
+\operatorname{Mode}\left( X \right) = \begin{cases} 0 & \text{if } p < 1/2 \\ 0, 1 &\text{if } p = 1/2 \\ 1 & \text{if } p > 1/2 \end{cases}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\operatorname{Mode}\left( X \right) = \begin{cases} 0 &amp; \text{if } p &lt; 1/2 \\ 0, 1 &amp;\text{if } p = 1/2 \\ 1 &amp; \text{if } p &gt; 1/2 \end{cases}" data-equation="eq:bernoulli_mode">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@e1fbdee688c5409e4cc6b0cd06d90b1cd2abd67c/lib/node_modules/@stdlib/stats/base/dists/bernoulli/mode/docs/img/equation_bernoulli_mode.svg" alt="Mode for a Bernoulli distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -214,7 +218,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
