@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-14)
+
+<section class="features">
+
+### Features
+
+-   [`06258f9`](https://github.com/stdlib-js/stdlib/commit/06258f9815f711fe5154458220c3f381d9b9134c) - add C implementation for `stats/base/dists/bernoulli/mode` [(#3450)](https://github.com/stdlib-js/stdlib/pull/3450)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3417](https://github.com/stdlib-js/stdlib/issues/3417)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`06258f9`](https://github.com/stdlib-js/stdlib/commit/06258f9815f711fe5154458220c3f381d9b9134c) - **feat:** add C implementation for `stats/base/dists/bernoulli/mode` [(#3450)](https://github.com/stdlib-js/stdlib/pull/3450) _(by Vivek maurya, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vivek maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
