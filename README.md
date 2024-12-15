@@ -202,7 +202,7 @@ Returns the [mode][mode] of a [Bernoulli][bernoulli-distribution] distribution w
 
 ```c
 double out = stdlib_base_dists_bernoulli_mode( 0.1 );
-// returns 0.325
+// returns 0
 ```
 
 The function accepts the following arguments:
